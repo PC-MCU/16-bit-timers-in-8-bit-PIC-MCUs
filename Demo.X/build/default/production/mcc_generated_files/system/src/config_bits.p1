@@ -1,0 +1,65 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"37 mcc_generated_files/system/src/config_bits.c
+[p x FEXTOSC  =  ECH      ]
+"38
+[p x RSTOSC  =  EXTOSC      ]
+"41
+[p x CLKOUTEN  =  OFF      ]
+"42
+[p x FCMEN  =  ON      ]
+"43
+[p x CSWEN  =  ON      ]
+"44
+[p x PR1WAY  =  ON      ]
+"47
+[p x MVECEN  =  OFF      ]
+"48
+[p x MCLRE  =  EXTMCLR      ]
+"49
+[p x BOREN  =  SBORDIS      ]
+"50
+[p x PWRTS  =  PWRT_OFF      ]
+"51
+[p x IVT1WAY  =  ON      ]
+"52
+[p x LPBOREN  =  OFF      ]
+"55
+[p x XINST  =  OFF      ]
+"56
+[p x LVP  =  ON      ]
+"57
+[p x ZCD  =  OFF      ]
+"58
+[p x STVREN  =  ON      ]
+"59
+[p x BORV  =  VBOR_1P9      ]
+"60
+[p x PPS1WAY  =  ON      ]
+"63
+[p x WDTCPS  =  WDTCPS_31      ]
+"64
+[p x WDTE  =  OFF      ]
+"67
+[p x WDTCWS  =  WDTCWS_7      ]
+"68
+[p x WDTCCS  =  SC      ]
+"71
+[p x SAFEN  =  OFF      ]
+"72
+[p x BBEN  =  OFF      ]
+"73
+[p x BBSIZE  =  BBSIZE_512      ]
+"74
+[p x DEBUG  =  OFF      ]
+"77
+[p x WRTB  =  OFF      ]
+"78
+[p x WRTC  =  OFF      ]
+"79
+[p x WRTD  =  OFF      ]
+"80
+[p x WRTAPP  =  OFF      ]
+"81
+[p x WRTSAF  =  OFF      ]
+"84
+[p x CP  =  OFF      ]
