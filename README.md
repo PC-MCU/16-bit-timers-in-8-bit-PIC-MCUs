@@ -1,9 +1,8 @@
-# 16-bit-timers-in-8-bit-PIC-MCUs
-16-bit-timers-in-8-bit-PIC-MCUs
+
 
 
 <div id="readme" class="Box-body readme blob js-code-block-container">
- <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="Microchip" width="100";"></a></p>
+ <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="Microchip" width="200";"></a></p>
 
 
 # PIC18F57Q43 Vectored 16Bit Timer Demo using MCC Melody
