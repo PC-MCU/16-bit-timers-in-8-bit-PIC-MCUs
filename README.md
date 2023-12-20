@@ -59,8 +59,9 @@ Image 2
 ## Result
 
 - Demo 1: Key pressed and level hold for short duration.
-<br><img src="images/Short_press.jpg">
+<br><img src="images/Short_press_logic.jpg">
+<br><img src="images/Short_press_print.jpg">
 
 - Demo 2:  Key pressed and level hold for Long duration.
-<br><img src="images/Long_press.jpg">
-
+<br><img src="images/Long_press_logic.jpg">
+<br><img src="images/Long_press_print.jpg">
