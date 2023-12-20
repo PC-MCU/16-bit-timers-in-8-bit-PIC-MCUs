@@ -5,9 +5,8 @@
  <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="Microchip" width="200";"></a></p>
 
 
-# PIC18F57Q43 Vectored 16Bit Timer Demo using MCC Melody
-
 # Microchip University PIC Interrupt Training Module Demo
+# PIC18F57Q43 Vectored 16Bit Timer Demo using MCC Melody
 
 ## Objective
 
@@ -17,12 +16,9 @@ We are going to show you the application of 16-bit timer in gated timer mode.
 
 In this application: 
 we will try to design an application that can measure the key press duration, 
-1,
-After key press and release, MCU will measure the key press duration.
-2, 
-MCU will send computer the time data via UART.
-3,
-And display in tera termination.
+- 1, After key press and release, MCU will measure the key press duration.
+- 2, MCU will send computer the time data via UART.
+- 3, And display in tera termination.
 
 ## Related Documentation
 
@@ -31,11 +27,11 @@ And display in tera termination.
 
 ## Software Used
 
-- MPLAB® X IDE 6.00 or newer [(microchip.com/mplab/mplab-x-ide)](http://www.microchip.com/mplab/mplab-x-ide)
-- MPLAB® XC8 2.35 or newer compiler [(microchip.com/mplab/compilers)](http://www.microchip.com/mplab/compilers)
+- MPLAB® X IDE 6.15 or newer [(microchip.com/mplab/mplab-x-ide)](http://www.microchip.com/mplab/mplab-x-ide)
+- MPLAB® XC8 2.41 or newer compiler [(microchip.com/mplab/compilers)](http://www.microchip.com/mplab/compilers)
 - MPLAB® Code Configurator (Plugin) v5.1.0 [(microchip.com/mplab/mplab-code-configurator)](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator)
 - MPLAB® Data Visualizer 1.3.1113 [(microchip.com/mplab/mplab-data-visualizer)](<https://www.microchip.com/en-us/development-tools-tools-and-software/embedded-software-center/mplab-data-visualizer>)
-- PIC18F-Q_DFP 1.13.211
+- PIC18F-Q_DFP 1.20.450
 
 ## Hardware Used
 
